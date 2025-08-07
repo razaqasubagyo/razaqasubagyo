@@ -10,13 +10,18 @@
 <h2>👨‍💻 ETL Projects:</h2>
 
 - <b>Talend Open Studio</b>
-  - [ETL Development - Advanced Database Techniques](https://github.com/razaqasubagyo/ETLDevelopmentAdvancedDatabaseTechniques)
-  - [ETL Development - Connecting to Big Data and Cloud Platforms](https://github.com/razaqasubagyo/ETLDevelopmentConnectingToBigDataAndCloudPlatforms)
-  - [ETL Development - Conversions and Custom Routines](https://github.com/razaqasubagyo/ETLDevelopmentConversionsAndCustomRoutines)
-  - [ETL Development - Java, External Integrations and Performance Optimization](https://github.com/razaqasubagyo/ETLDevelopmentJavaExternalIntegrationsAndPerformanceOptimization)
-  - [ETL Development - Data Quality](https://github.com/razaqasubagyo/ETLDevelopmentDataQuality)
-  - [ETL Development - Data Transformation](https://github.com/razaqasubagyo/ETLDevelopmentDataTransformation)
-  - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ETL Development: Advanced Database Techniques](https://github.com/razaqasubagyo/ETLDevelopmentAdvancedDatabaseTechniques)
+  - [ETL Development: Connecting to Big Data and Cloud Platforms](https://github.com/razaqasubagyo/ETLDevelopmentConnectingToBigDataAndCloudPlatforms)
+  - [ETL Development: Conversions and Custom Routines](https://github.com/razaqasubagyo/ETLDevelopmentConversionsAndCustomRoutines)
+  - [ETL Development: Java, External Integrations and Performance Optimization](https://github.com/razaqasubagyo/ETLDevelopmentJavaExternalIntegrationsAndPerformanceOptimization)
+  - [ETL Development: Data Quality](https://github.com/razaqasubagyo/ETLDevelopmentDataQuality)
+  - [ETL Development: Data Transformation](https://github.com/razaqasubagyo/ETLDevelopmentDataTransformation)
+  - [ETL Development: Logging and Monitoring](https://github.com/razaqasubagyo/ETLDevelopmentLoggingAndMonitoring)
+
+ <h2>🧩 Data Modeling Projects:</h2>
+
+- <b>Oracle SQL Developer Data Modeler</b>
+  - [Data Modeling: Employee and Project Role Assignment](https://github.com/razaqasubagyo/ETLDevelopmentAdvancedDatabaseTechniques)
 
 <h2>🔑 Key Skills & Abilities</h2>
 <ul>
