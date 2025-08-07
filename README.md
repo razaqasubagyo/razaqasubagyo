@@ -11,7 +11,7 @@
 
 - <b>Talend Open Studio</b>
   - [ETL Development - Advanced Database Techniques](https://github.com/razaqasubagyo/ETLDevelopmentAdvancedDatabaseTechniques)
-  - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ETL Development - Connecting to Big Data and Cloud Platforms](https://github.com/razaqasubagyo/ETLDevelopmentConnectingToBigDataAndCloudPlatforms)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
 
