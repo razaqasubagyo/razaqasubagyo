@@ -15,9 +15,7 @@
   - [ETL Development - Conversions and Custom Routines](https://github.com/razaqasubagyo/ETLDevelopmentConversionsAndCustomRoutines)
   - [ETL Development - Java, External Integrations and Performance Optimization](https://github.com/razaqasubagyo/ETLDevelopmentJavaExternalIntegrationsAndPerformanceOptimization)
   - [ETL Development - Data Quality](https://github.com/razaqasubagyo/ETLDevelopmentDataQuality)
-  - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ETL Development - Data Transformation](https://github.com/razaqasubagyo/ETLDevelopmentDataTransformation)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🔑 Key Skills & Abilities</h2>
