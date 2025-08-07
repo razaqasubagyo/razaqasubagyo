@@ -10,7 +10,7 @@
 <h2>👨‍💻 ETL Projects:</h2>
 
 - <b>Talend Open Studio</b>
-  - [ETL Development - Advanced Database Techniques](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ETL Development - Advanced Database Techniques](https://github.com/razaqasubagyo/ETLDevelopmentAdvancedDatabaseTechniques)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
