@@ -1,5 +1,12 @@
 <h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring ETL Developer</a>, <a href="https://www.linkedin.com/in/razaqasubagyo">Data Integration Specialist</a></h1>
 
+<h2>🙋🏻‍♂️ About Me</h2>
+<p>Aspiring ETL Developer and Data Integration Specialist with hands-on experience in Talend Open Studio, SQL and data quality, with a solid foundation in data modeling and database operations.</p>
+
+<p>Backed by a business and communication background, offering a hybrid perspective that blends technical expertise with analytical and stakeholder engagement skills.</p>
+
+<p>Currently preparing to pursue a Postgraduate degree in Management of Information Systems and Digital Innovation at Warwick Business School, University of Warwick, with the goal of driving value in data integration, data management, and digital transformation domains.</p>
+
 <h2>👨‍💻 ETL Projects:</h2>
 
 - <b>Talend Open Studio</b>
@@ -7,21 +14,13 @@
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ETL Development - Lorem Ipsum](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
+<h2>🔑 Key Skills & Abilities</h2>
+<ul>
+  <li><strong>Technical Skills:</strong> Advanced in Talend; Proficient in MySQL, SQL & Excel; Strong foundation in Oracle Data Modeler</li>
+  <li><strong>Core Competencies:</strong> ETL development, data integration, data quality, statistical analysis</li>
+  <li><strong>Languages:</strong> Native Indonesian, Fluent English, Intermediate Mandarin (conversational)</li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
