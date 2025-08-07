@@ -21,7 +21,7 @@
  <h2>🧩 Data Modeling Projects:</h2>
 
 - <b>Oracle SQL Developer Data Modeler</b>
-  - [Data Modeling: Employee and Project Role Assignment](https://github.com/razaqasubagyo/ETLDevelopmentAdvancedDatabaseTechniques)
+  - [Data Modeling: Employee and Project Role Assignment](https://github.com/razaqasubagyo/EmployeeRoleAndProjectAssignment)
 
 <h2>🔑 Key Skills & Abilities</h2>
 <ul>
