@@ -1,4 +1,4 @@
-<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring ETL Developer</a>, <a href="https://www.linkedin.com/in/razaqasubagyo">Data Integration Specialist</a></h1>
+<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring ETL Developer</a> & <a href="https://www.linkedin.com/in/razaqasubagyo">Data Integration Specialist</a></h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>Aspiring ETL Developer and Data Integration Specialist with hands-on experience in Talend Open Studio, SQL and data quality, with a solid foundation in data modeling and database operations.</p>
