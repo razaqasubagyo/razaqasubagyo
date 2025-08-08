@@ -21,7 +21,7 @@
  <h2>🧩 Data Modeling Projects:</h2>
 
 - <b>Oracle SQL Developer Data Modeler</b>
-  - [Data Modeling: Online Tutor Marketplace](hhttps://github.com/razaqasubagyo/OnlineTutorMarketplace)
+  - [Data Modeling: Online Tutor Marketplace](https://github.com/razaqasubagyo/OnlineTutorMarketplace)
 
 <h2>🔑 Key Skills & Abilities</h2>
 <ul>
