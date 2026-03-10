@@ -1,11 +1,11 @@
-<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring ETL Developer</a> & <a href="https://www.linkedin.com/in/razaqasubagyo">Data Integration Specialist</a></h1>
+<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring Business Analyst</a> & <a href="https://www.linkedin.com/in/razaqasubagyo">Data Management Analyst</a></h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
-<p>Aspiring ETL Developer and Data Integration Specialist with hands-on experience in Talend Open Studio, SQL and data quality, with a solid foundation in data modeling and database operations.</p>
+<p>Data and Business Analysis enthusiast with hands-on experience in ETL development, SQL data management, and data integration using Talend Open Studio. Currently pursuing an MSc in Management of Information Systems & Digital Innovation at Warwick Business School, University of Warwick.</p>
 
-<p>Backed by a business and communication background, offering a hybrid perspective that blends technical expertise with analytical and stakeholder engagement skills.</p>
+<p>Combining a technical data background with business operations and stakeholder management experience, capable of translating business requirements into data-driven insights and technical solutions.</p>
 
-<p>Currently preparing to pursue a Postgraduate degree in Management of Information Systems and Digital Innovation at Warwick Business School, University of Warwick, with the goal of driving value in data integration, data management, and digital transformation domains.</p>
+<p>Interested in Business Analyst and Data Management / Data Governance roles where business and technology intersect.</p>
 
 <h2>👨‍💻 ETL Projects:</h2>
 
