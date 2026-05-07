@@ -1,4 +1,4 @@
-<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring Business Analyst</a> & <a href="https://www.linkedin.com/in/razaqasubagyo">Technology & Data Enthusiast</a></h1>
+<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring Business Analyst</a> & <a href="https://www.linkedin.com/in/razaqasubagyo">Technology Enthusiast</a></h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>Business analyst candidate with a background in operations management and a technical foundation in SQL, ETL development, and data integration. Currently completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School (expected September 2026). Experienced in translating operational requirements into structured workflows, with exposure to ISO-standard consulting engagements, AI-integrated application development, and cross-platform data tools. Seeking graduate Business Analyst or Technology roles where analytical thinking and business understanding work together.</p>
