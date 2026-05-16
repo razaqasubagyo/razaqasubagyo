@@ -1,7 +1,7 @@
 <h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Aspiring Integration </a> & <a href="https://www.linkedin.com/in/razaqasubagyo"> Business Analyst | Technology Enthusiast</a></h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
-<p>Junior Business Analyst with experience supporting management system consulting projects across mining, manu facturing, and industrial sectors. Currently completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School (expected September 2026). Skilled in stakeholder interviews, developing SOPs, and supporting gap analysis and documentation across safety regulations standard. Seeking Junior Business Analyst or Technology roles where analytical thinking and business understanding work together.</p>
+<p>Junior Business Analyst with experience supporting management system consulting projects across mining, manufacturing, and industrial sectors. Currently completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School (expected September 2026). Skilled in stakeholder interviews, developing SOPs, and supporting gap analysis and documentation across safety regulations standard. Seeking Junior Business Analyst or Technology roles where analytical thinking and business understanding work together.</p>
 
 <h2>🤖 AI & Python Projects:</h2>
 
