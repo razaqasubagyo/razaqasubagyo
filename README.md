@@ -1,4 +1,11 @@
-<h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Junior Business Analyst</a> & <a href="https://www.linkedin.com/in/razaqasubagyo"> Technology Enthusiast</a></h1>
+<h1>
+  Hi, I'm Razaqa! <br/>
+  <a href="https://github.com/razaqasubagyo">Business Analysis & Commercial Analytics</a>
+  |
+  <a href="https://www.linkedin.com/in/razaqasubagyo">Business Operations</a>
+  |
+  Power BI, SQL & Python
+</h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>Business operations professional completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School, combining B2B operational experience with Power BI, SQL, data modelling and Python. Seeking graduate opportunities in Business Analysis, Commercial Analytics, Business Operations or Technology Consulting.</p>
