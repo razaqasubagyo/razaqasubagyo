@@ -1,10 +1,7 @@
 <h1>Hi, I'm Razaqa! <br/><a href="https://github.com/razaqasubagyo">Junior Business Analyst</a> & <a href="https://www.linkedin.com/in/razaqasubagyo"> Technology Enthusiast</a></h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
-<p>Business operations professional completing an MSc in Management of Information Systems and Digital Innovation
-at Warwick Business School, with experience in B2B service delivery, cross-functional coordination, and operational
-support. Combines business experience with skills in data analytics and digital technologies, seeking graduate roles
-in Business Operations, Business Analysis, or Technology Consulting.</p>
+<p>Business operations professional completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School, combining B2B operational experience with Power BI, SQL, data modelling and Python. Seeking graduate opportunities in Business Analysis, Commercial Analytics, Business Operations or Technology Consulting.</p>
 
 <h2>🤖 AI & Python Projects:</h2>
 
