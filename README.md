@@ -32,11 +32,11 @@
 
 <h2>🔑 Key Skills & Abilities</h2>
 <ul>
-  <li><strong>AI & Development:</strong> Python, LLM Integration (Google Gemini), Modular Application Design</li>
-  <li><strong>Data & Analytics:</strong> SQL, Excel, Power Query, Power BI</li>
-  <li><strong>Data Engineering:</strong> Talend Open Studio, ETL Pipelines, API/Cloud Integration, Oracle Data Modeler</li>
-  <li><strong>Languages:</strong> Native Indonesian, Fluent English, Conversational Mandarin</li>
-  <li><strong>Certifications:</strong> McKinsey Forward Program</li>
+  <li><strong>Data & BI:</strong> Power BI, DAX, Power Query, SQL, Excel</li>
+  <li><strong>Data Engineering & Modelling:</strong> ETL Pipelines, Talend Open Studio, Star Schema, Snowflake Schema, Oracle Data Modeler, API/Cloud Integration</li>
+  <li><strong>Development & AI:</strong> Python, LLM Integration (Google Gemini), Modular Application Design</li>
+  <li><strong>Languages:</strong> Indonesian (Native), English (Fluent), Mandarin (Conversational)</li>
+  <li><strong>Certification:</strong> McKinsey Forward Program</li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
