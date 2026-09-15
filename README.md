@@ -7,7 +7,7 @@
 
 - <b>UK Pharmaceutical Commercial Analytics — SGLT2 Market</b>
   - Analysed NHS prescribing and GP population data in Power BI to evaluate SGLT2 market growth, market share, growth drivers, and ICB-level commercial opportunity.
-  - <a href="https://github.com/razaqasubagyo/uk-pharmaceutical-commercial-analytics-sglt2">View Project</a>
+  - <a href="[https://github.com/razaqasubagyo/uk-pharmaceutical-commercial-analytics-sglt2](https://github.com/razaqasubagyo/UK-Pharmaceutical-Commercial-Analytics-SGLT2-Market)">View Project</a>
 
 <h2>🤖 AI & Python Projects:</h2>
 
