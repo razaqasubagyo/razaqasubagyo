@@ -3,6 +3,11 @@
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>Business operations professional completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School, combining B2B operational experience with Power BI, SQL, data modelling and Python. Seeking graduate opportunities in Business Analysis, Commercial Analytics, Business Operations or Technology Consulting.</p>
 
+<h2>🤖 Power BI & Analytic Projects:</h2>
+
+- <b>UK-Pharmaceutical-Commercial-Analytics-SGLT2-Market</b>
+  - Placeholder
+
 <h2>🤖 AI & Python Projects:</h2>
 
 - <b>Python & LLM Integration</b>
