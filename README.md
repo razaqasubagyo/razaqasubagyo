@@ -12,6 +12,9 @@
 
 <h2>📈 Power BI & Commercial Analytics Projects:</h2>
 
+- <b>Semaglutide Commercial Performance Tracker</b> — <a href="https://github.com/razaqasubagyo/Semaglutide-Commercial-Performance-Tracker">View Project</a>
+  - Built a Power BI commercial performance tracker using NHS prescribing data to analyse semaglutide volume growth, competitive market share, presentation mix, and recorded NIC dynamics across the English GLP-1 market.
+
 - <b>UK GLP-1 Commercial Opportunity & Disease Burden Analysis</b> — <a href="https://github.com/razaqasubagyo/UK-GLP1-Commercial-Opportunity-Disease-Burden-Analysis">View Project</a>
   - Analysed NHS prescribing, GP population, and QOF diabetes data in Power BI to evaluate GLP-1 market performance, competitive dynamics, disease-adjusted utilisation, and ICB-level commercial opportunity.
 
