@@ -10,7 +10,7 @@
 <h2>🙋🏻‍♂️ About Me</h2>
 <p>Business operations professional completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School, combining B2B operational experience with Power BI, SQL, data modelling and Python. Seeking graduate opportunities in Business Analysis, Commercial Analytics, Business Operations or Technology Consulting.</p>
 
-<h2>📈 Power BI & Analytics Projects:</h2>
+<h2>📈 Power BI & Commercial Analytics Projects:</h2>
 
 - <b>UK GLP-1 Commercial Opportunity & Disease Burden Analysis</b> — <a href="https://github.com/razaqasubagyo/UK-GLP1-Commercial-Opportunity-Disease-Burden-Analysis">View Project</a>
   - Analysed NHS prescribing, GP population, and QOF diabetes data in Power BI to evaluate GLP-1 market performance, competitive dynamics, disease-adjusted utilisation, and ICB-level commercial opportunity.
