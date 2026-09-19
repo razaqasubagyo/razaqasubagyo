@@ -15,9 +15,8 @@
 - <b>UK GLP-1 Commercial Opportunity & Disease Burden Analysis</b> — <a href="https://github.com/razaqasubagyo/UK-GLP1-Commercial-Opportunity-Disease-Burden-Analysis">View Project</a>
   - Analysed NHS prescribing, GP population, and QOF diabetes data in Power BI to evaluate GLP-1 market performance, competitive dynamics, disease-adjusted utilisation, and ICB-level commercial opportunity.
 
-- <b>UK Pharmaceutical Commercial Analytics — SGLT2 Market</b>
+- <b>UK Pharmaceutical Commercial Analytics — SGLT2 Market</b> — <a href="https://github.com/razaqasubagyo/UK-Pharmaceutical-Commercial-Analytics-SGLT2-Market">View Project</a>
   - Analysed NHS prescribing and GP population data in Power BI to evaluate SGLT2 market growth, market share, growth drivers, and ICB-level commercial opportunity.
-  - <a href="https://github.com/razaqasubagyo/UK-Pharmaceutical-Commercial-Analytics-SGLT2-Market">View Project</a>
 
 <h2>🤖 AI & Python Projects:</h2>
 
