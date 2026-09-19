@@ -44,8 +44,8 @@
 
 <h2>🔑 Key Skills & Abilities</h2>
 <ul>
-  <li><strong>Data & BI:</strong> Power BI, DAX, Power Query, SQL, Excel</li>
-  <li><strong>Data Engineering & Modelling:</strong> ETL Pipelines, Talend Open Studio, Star Schema, Snowflake Schema, Oracle Data Modeler, API/Cloud Integration</li>
+  <li><strong>Data & BI:</strong> Power BI, DAX, Power Query, SQL, Excel, Figma </li>
+  <li><strong>Data Engineering & Modelling:</strong> ETL Pipelines, Talend Open Studio, Star Schema, Oracle Data Modeler, API/Cloud Integration</li>
   <li><strong>Development & AI:</strong> Python, LLM Integration (Google Gemini), Modular Application Design</li>
   <li><strong>Languages:</strong> Indonesian (Native), English (Fluent), Mandarin (Conversational)</li>
   <li><strong>Certification:</strong> McKinsey Forward Program</li>
