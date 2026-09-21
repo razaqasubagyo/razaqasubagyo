@@ -12,6 +12,9 @@
 
 <h2>📈 Power BI & Commercial Analytics Projects:</h2>
 
+- <b>DPP-4 Market Performance Tracker</b> — <a href="https://github.com/razaqasubagyo/DPP4-Market-Performance-Tracker">View Project</a>
+  - Analysed NHS prescribing data across five DPP-4 molecules, identifying 3.96M prescription items, -0.61% YoY category growth, and 48.70% volume share for Sitagliptin in Jan–Jul 2026.
+
 - <b>Semaglutide Commercial Performance Tracker</b> — <a href="https://github.com/razaqasubagyo/Semaglutide-Commercial-Performance-Tracker">View Project</a>
   - Built a Power BI commercial performance tracker using NHS prescribing data to analyse semaglutide volume growth, competitive market share, presentation mix, and recorded NIC dynamics across the English GLP-1 market.
 
