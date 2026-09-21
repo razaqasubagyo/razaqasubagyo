@@ -8,12 +8,12 @@
 </h1>
 
 <h2>🙋🏻‍♂️ About Me</h2>
-<p>Business operations professional completing an MSc in Management of Information Systems and Digital Innovation at Warwick Business School, combining B2B operational experience with Power BI, SQL, data modelling and Python. Seeking graduate opportunities in Business Analysis, Commercial Analytics, Business Operations or Technology Consulting.</p>
+<p>MSc Management of Information Systems & Digital Innovation graduate at Warwick Business School with B2B operations experience and skills in Power BI, SQL, data modelling and Python. Seeking graduate opportunities in Commercial Analytics, Business Intelligence or Business Analysis.</p>
 
 <h2>📈 Power BI & Commercial Analytics Projects:</h2>
 
 - <b>DPP-4 Market Performance Tracker</b> — <a href="https://github.com/razaqasubagyo/DPP4-Market-Performance-Tracker">View Project</a>
-  - Analysed NHS prescribing data across five DPP-4 molecules, identifying 3.96M prescription items, -0.61% YoY category growth, and 48.70% volume share for Sitagliptin in Jan–Jul 2026.
+  - Analysed NHS prescribing data in Power BI to evaluate DPP-4 category growth, molecule market share, competitive momentum, growth contribution, and volume-versus-NIC dynamics.
 
 - <b>Semaglutide Commercial Performance Tracker</b> — <a href="https://github.com/razaqasubagyo/Semaglutide-Commercial-Performance-Tracker">View Project</a>
   - Built a Power BI commercial performance tracker using NHS prescribing data to analyse semaglutide volume growth, competitive market share, presentation mix, and recorded NIC dynamics across the English GLP-1 market.
