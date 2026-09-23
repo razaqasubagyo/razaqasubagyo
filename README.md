@@ -18,7 +18,7 @@
 - <b>DPP-4 Market Performance Tracker</b> — <a href="https://github.com/razaqasubagyo/DPP4-Market-Performance-Tracker">View Project</a>
   - Analysed NHS prescribing data in Power BI to evaluate DPP-4 category growth, molecule market share, competitive momentum, growth contribution, and volume-versus-NIC dynamics.
 
-- <b>PPI Market Commercial Analytics</b> — <a href="https://github.com/razaqasubagyo/PPI-Market-Commercial-Analytics">View Project</a>
+- <b>Proton Pump Inhibitor Market Commercial Analytics</b> — <a href="https://github.com/razaqasubagyo/PPI-Market-Commercial-Analytics">View Project</a>
   - Analysed NHS prescribing and GP population data in Power BI to evaluate PPI market growth, competitive share, recorded NIC dynamics, and population-adjusted ICB market development, including harmonisation of 2026 ICB geography.
 
 - <b>UK GLP-1 Commercial Opportunity & Disease Burden Analysis</b> — <a href="https://github.com/razaqasubagyo/UK-GLP1-Commercial-Opportunity-Disease-Burden-Analysis">View Project</a>
